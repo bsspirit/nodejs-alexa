@@ -1,0 +1,10 @@
+{
+  "name": "alexa-demo",
+  "version": "0.0.1",
+  "description": "alexa web demo",
+  "license": "MIT",
+  "dependencies": {
+    "alexarank": "^0.1.1",
+    "awis": "0.0.8"
+  }
+}
