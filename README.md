@@ -8,6 +8,14 @@
 
 ![构建自己的Aleax查询服务](http://blog.fens.me/wp-content/uploads/2015/10/alexa-title.png)
 
+## 下载安装
+
+```{js}
+git clone https://github.com/bsspirit/nodejs-alexa.git
+cd nodejs-alexa
+npm install
+```
+
 ## 文章地址
 
 http://blog.fens.me/nodejs-alexa/
